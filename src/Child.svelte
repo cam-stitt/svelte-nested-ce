@@ -1,3 +1,3 @@
 <svelte:options tag='my-child' />
 
-<h1><slot>A</slot></h1>
+<h1 style='color: red'><slot></slot></h1>
